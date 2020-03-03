@@ -1,0 +1,19 @@
+                                                        COLEGIO MEJIA 
+                                  REPORTE DE CALIFICACIONES 
+AÑO LECTIVO 2019-2020
+MATERIA: Quimica
+N°         NOMBRE  NOTA
+   1     Juan Perez  18
+   2     Wendy Soto  14
+   3 Fredy Valverde   2
+RESUMEN
+PROMEDIO: 11.3333
+APROBADO:   2
+SUSPENDIDO: 1
+REPROBADO:  1
+
+
+          ________________________________________
+
+                                      Byron Loarte
+                                        1725096141

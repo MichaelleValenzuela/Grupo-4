@@ -1,0 +1,4 @@
+﻿  algoproyect.cpp
+C:\Users\Fantasma\Desktop\algoproyect\algoproyect\algoproyect.cpp(7,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+C:\Users\Fantasma\Desktop\algoproyect\algoproyect\algoproyect.cpp(644): warning C4715: 'interpolar': no todas las rutas de acceso de control devuelven un valor
+  algoproyect.vcxproj -> C:\Users\Fantasma\Desktop\algoproyect\Debug\algoproyect.exe

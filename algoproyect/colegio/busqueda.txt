@@ -1,0 +1,11 @@
+                                                        COLEGIO MEJIA 
+                                  REPORTE DE CALIFICACIONES 
+RESULTADO DE BUSQUEDA
+ALGORITMO:  INTERPOLAR
+
+LA NOTA  18 ES DEL ALUMNO Juan Perez
+
+          ________________________________________
+
+                                      Byron Loarte
+                                        1725096141

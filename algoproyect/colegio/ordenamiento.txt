@@ -1,0 +1,10 @@
+                                                        COLEGIO MEJIA 
+                                  REPORTE DE CALIFICACIONES 
+CALIFICACIONES ORDENADAS
+ALGORITMO: 
+HEAPSORT
+ | 18 | 2 | -858993460
+          ________________________________________
+
+                                      Byron Loarte
+                                        1725096141
